@@ -1,0 +1,9 @@
+body {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+    background: url(../img/1.jpg) 0 0/100% auto no-repeat ;
+    left: 0;
+    top: 0;
+    right: 0;
+}
